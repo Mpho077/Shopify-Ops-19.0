@@ -1,7 +1,7 @@
 {
     "name": "Shopify Connector - 2 way Sync",
     "summary": "Two-way Odoo-Shopify sync with ops dashboard, orders, inventory, fulfillment, and more",
-    "version": "19.0.1.0.66",
+    "version": "19.0.1.0.67",
     "category": "Sales/Sales",
     "author": "Leeno Consult",
     "website": "https://apps.odoo.com",
