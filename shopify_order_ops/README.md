@@ -1,4 +1,4 @@
-# Shopify Order Ops (Odoo 19)
+# Shopify Connector - 2 way Sync (Odoo 19)
 
 Standalone **Odoo ↔ Shopify** operations module by **Leeno Consult**. Pull and
 update orders, keep invoices aligned, sync addresses, fulfillments, inventory,
@@ -30,7 +30,7 @@ dashboard, job queue, and audit log.
 
 1. Copy `shopify_order_ops` into your Odoo addons path (Odoo.sh / self-hosted —
    Odoo Online does not allow custom modules).
-2. Update the app list and install **Shopify Order Ops**.
+2. Update the app list and install **Shopify Connector - 2 way Sync**.
 
 ## Configure (Settings → Shopify Ops)
 
